@@ -1,0 +1,20 @@
+name: Mini-WorldEdit
+version: 1.0
+author: RoroGotWork
+main: fr.rorocraft.miniwe.MiniWorldEdit
+commands:
+  set:
+    description: Set blocks
+    permission: miniwe.use
+  cut:
+    description: Cut blocks
+    permission: miniwe.use
+  replace:
+    description: Replace a block by a block
+    permission: miniwe.use
+  pos1:
+    description: Set a first position
+    permission: miniwe.use
+  pos2:
+    description: Set a second position
+    permission: miniwe.use
